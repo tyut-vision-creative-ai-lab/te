@@ -2,7 +2,7 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
 
-This repository contains the PyTorch implementation of the paper: **"Joint Spatial-Frequency and Angular-Geometry Learning for Light Field Image Denoising"** (Submitted to ICME 2025).
+This repository contains the PyTorch implementation of the paper: **"Joint Spatial-Frequency and Angular-Geometry Learning for Light Field Image Denoising"** (Submitted to ICME 2026).
 
 ---
 
