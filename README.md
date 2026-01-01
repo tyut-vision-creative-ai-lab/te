@@ -1,4 +1,4 @@
-# Joint Spatial-Frequency and Angular-Geometry Learning
+
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
 
